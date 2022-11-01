@@ -1,0 +1,2 @@
+# testnet
+Supernova testnet
